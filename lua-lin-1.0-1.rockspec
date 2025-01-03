@@ -8,7 +8,7 @@ source = {
 description = {
    summary = "A Lua wrapper to run Lua code from command line",
    detailed = "This package allows you to pass Lua code as an argument to lua-lin",
-   homepage = "https://github.com/yourusername/lua-lin",  
+   homepage = "https://github.com/Amachono/lua-lin",  
    license = "MIT",
 }
 
