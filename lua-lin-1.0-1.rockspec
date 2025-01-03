@@ -1,7 +1,7 @@
 package = "lua-lin"
 version = "1.0-1"
 source = {
-   url = "github.com/Amachono/lua-lin.git",  
+   url = "https://github.com/Amachono/lua-lin.git",  
    branch = "main",  
 }
 
